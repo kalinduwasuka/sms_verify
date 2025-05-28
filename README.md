@@ -127,4 +127,3 @@ During the development of this library, persistent environmental issues were enc
     ```
 
 This library provides a starting point. For a production environment, you would typically replace `BasicSmsOtpSender` with an implementation that integrates with a real SMS gateway service.
-```
